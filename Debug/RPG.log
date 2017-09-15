@@ -1,0 +1,4 @@
+﻿  RPG.cpp
+c:\users\dmitrij\source\repos\rpg\rpg\rpg.cpp(24): error C3861: 'createH': identifier not found
+c:\users\dmitrij\source\repos\rpg\rpg\rpg.cpp(50): error C3861: 'main': identifier not found
+c:\users\dmitrij\source\repos\rpg\rpg\rpg.cpp(57): error C3861: 'main': identifier not found
